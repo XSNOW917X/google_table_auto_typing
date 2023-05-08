@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Google_auro_table_reload
+// @name         Google_auto_table_reload
 // @namespace    https://your-namespace-here
 // @version      1.0
 // @description  NMSL
